@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ============================================================ -->
+  <!-- HOME PAGE -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://octomedia.agency/ru"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://octomedia.agency/es"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://octomedia.agency/uk"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://octomedia.agency/sv"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://octomedia.agency/de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://octomedia.agency/fr"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/"/>
+  </url>
+  <url><loc>https://octomedia.agency/ru</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://octomedia.agency/es</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://octomedia.agency/uk</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://octomedia.agency/sv</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://octomedia.agency/de</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://octomedia.agency/fr</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+
+  <!-- ============================================================ -->
+  <!-- SERVICES -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/services</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/services"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://octomedia.agency/ru/services"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://octomedia.agency/es/services"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://octomedia.agency/uk/services"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://octomedia.agency/sv/services"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://octomedia.agency/de/services"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://octomedia.agency/fr/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/services"/>
+  </url>
+  <url><loc>https://octomedia.agency/ru/services</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/es/services</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/uk/services</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/sv/services</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/de/services</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/fr/services</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+
+  <!-- ============================================================ -->
+  <!-- STREAMERS -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/streamers</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/streamers"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://octomedia.agency/ru/streamers"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://octomedia.agency/es/streamers"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://octomedia.agency/uk/streamers"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://octomedia.agency/sv/streamers"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://octomedia.agency/de/streamers"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://octomedia.agency/fr/streamers"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/streamers"/>
+  </url>
+  <url><loc>https://octomedia.agency/ru/streamers</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/es/streamers</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/uk/streamers</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/sv/streamers</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/de/streamers</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://octomedia.agency/fr/streamers</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+
+  <!-- ============================================================ -->
+  <!-- WHY US -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/why-us</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/why-us"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://octomedia.agency/ru/why-us"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://octomedia.agency/es/why-us"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://octomedia.agency/uk/why-us"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://octomedia.agency/sv/why-us"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://octomedia.agency/de/why-us"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://octomedia.agency/fr/why-us"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/why-us"/>
+  </url>
+  <url><loc>https://octomedia.agency/ru/why-us</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://octomedia.agency/es/why-us</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://octomedia.agency/uk/why-us</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://octomedia.agency/sv/why-us</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://octomedia.agency/de/why-us</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://octomedia.agency/fr/why-us</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+
+  <!-- ============================================================ -->
+  <!-- RESOURCES HUB -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/resources</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/resources"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://octomedia.agency/ru/resources"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://octomedia.agency/es/resources"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://octomedia.agency/uk/resources"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://octomedia.agency/sv/resources"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://octomedia.agency/de/resources"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://octomedia.agency/fr/resources"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/resources"/>
+  </url>
+  <url><loc>https://octomedia.agency/ru/resources</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/es/resources</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/uk/resources</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/sv/resources</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/de/resources</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/fr/resources</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- Resource Articles (EN canonical only — article content is English) -->
+  <url>
+    <loc>https://octomedia.agency/resources/igaming-influencer-marketing-roi</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/resources/igaming-influencer-marketing-roi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/resources/igaming-influencer-marketing-roi"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/resources/casino-influencer-marketing-compliance</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/resources/casino-influencer-marketing-compliance"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/resources/casino-influencer-marketing-compliance"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/resources/affiliate-vs-influencer-marketing-igaming</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/resources/affiliate-vs-influencer-marketing-igaming"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/resources/affiliate-vs-influencer-marketing-igaming"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/resources/crypto-casino-marketing-trends</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/resources/crypto-casino-marketing-trends"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/resources/crypto-casino-marketing-trends"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/resources/twitch-casino-marketing-guide</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/resources/twitch-casino-marketing-guide"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/resources/twitch-casino-marketing-guide"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/resources/esports-betting-influencer-strategy</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/resources/esports-betting-influencer-strategy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/resources/esports-betting-influencer-strategy"/>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- GEO-TARGETED LANDING PAGES -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/igaming-influencer-marketing-uk</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en-GB" href="https://octomedia.agency/igaming-influencer-marketing-uk"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/igaming-influencer-marketing-malta</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/igaming-influencer-marketing-malta"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/igaming-influencer-marketing-curacao</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/igaming-influencer-marketing-curacao"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/igaming-influencer-marketing-germany</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/igaming-influencer-marketing-germany"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/igaming-influencer-marketing-germany"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/igaming-influencer-marketing-canada</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-CA" href="https://octomedia.agency/igaming-influencer-marketing-canada"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/igaming-influencer-marketing-uae</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/igaming-influencer-marketing-uae"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/igaming-influencer-marketing-india</loc>
+    <lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://octomedia.agency/igaming-influencer-marketing-india"/>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- LEGAL PAGES -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/privacy</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/terms</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/cookies</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- CASE STUDIES -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://octomedia.agency/case-studies</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/winspirit-casino</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/winspirit-casino"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/winspirit-casino"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/lunacasino</loc>
+    <lastmod>2025-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/lunacasino"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/lunacasino"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/winwin-bet</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/winwin-bet"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/winwin-bet"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/bitcasino</loc>
+    <lastmod>2025-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/bitcasino"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/bitcasino"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/betbox</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/betbox"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/betbox"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/swiftcasino</loc>
+    <lastmod>2025-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/swiftcasino"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/swiftcasino"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/evo-io</loc>
+    <lastmod>2025-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/evo-io"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/evo-io"/>
+  </url>
+  <url>
+    <loc>https://octomedia.agency/case-studies/bluechip</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://octomedia.agency/case-studies/bluechip"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://octomedia.agency/case-studies/bluechip"/>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- BLOG -->
+  <!-- ============================================================ -->
+  <url><loc>https://octomedia.agency/blog</loc><lastmod>2026-03-13</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://octomedia.agency/blog/how-to-detect-fake-streamers-inflated-metrics</loc><lastmod>2026-01-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/how-to-find-right-streamer-casino</loc><lastmod>2026-01-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/twitch-casino-marketing-strategy-2026</loc><lastmod>2026-01-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/measure-roi-influencer-marketing-igaming</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/affiliate-vs-influencer-marketing-casinos</loc><lastmod>2026-01-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/cost-hiring-twitch-casino-streamers</loc><lastmod>2026-01-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/how-to-vet-gambling-influencers</loc><lastmod>2026-01-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/top-kpis-sportsbook-influencer-campaigns</loc><lastmod>2026-01-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/micro-vs-macro-influencers-igaming</loc><lastmod>2026-01-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/revenue-share-deals-streamers</loc><lastmod>2026-01-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/scale-casino-acquisition-influencer-campaigns</loc><lastmod>2026-02-01</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/compliance-gambling-influencer-marketing</loc><lastmod>2026-02-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/crypto-casino-influencer-marketing-strategies</loc><lastmod>2026-02-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/esports-betting-influencer-strategy</loc><lastmod>2026-02-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/kick-vs-twitch-gambling-marketing</loc><lastmod>2026-02-10</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/avoid-influencer-fraud-igaming</loc><lastmod>2026-02-12</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/brand-ambassador-programs-casino</loc><lastmod>2026-02-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/casino-streamer-campaign-case-study</loc><lastmod>2026-02-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/analyze-streamer-audience-demographics</loc><lastmod>2026-02-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/conversion-tracking-influencer-campaigns</loc><lastmod>2026-03-13</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/incrementality-vs-attribution-gambling</loc><lastmod>2026-02-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/common-mistakes-influencer-marketing-casinos</loc><lastmod>2026-02-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/influencer-outreach-templates-igaming</loc><lastmod>2026-02-25</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/geo-targeting-gambling-influencer-campaigns</loc><lastmod>2026-02-27</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://octomedia.agency/blog/future-influencer-marketing-igaming-2026</loc><lastmod>2026-02-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+</urlset>
